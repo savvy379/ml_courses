@@ -42,7 +42,7 @@ This course was originally designed as a Princeton University Winterssion Intens
 * Slides
 * Coding Exercises
 
-[Link to course page]((https://github.com/savvy379/intro_to_ml#material-use))
+[Link to course page](https://github.com/savvy379/intro_to_ml#material-use)
 
 ## Individual Lectures
 
