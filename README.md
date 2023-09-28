@@ -44,6 +44,12 @@ This course was originally designed as a Princeton University Winterssion Intens
 
 [Link to course page](https://github.com/savvy379/intro_to_ml#material-use)
 
+## AI Ethics for Scientists
+
+## Applications of Graph Neural Networks: Physical and Societal Systems 
+
+## COMING SOON: AI Ethics Full Semester Course
+
 ## Individual Lectures
 
 ### Introduction to Machine Learning 
@@ -52,5 +58,7 @@ A two hour introduction to machine learning. This lecture provides historical an
 This lecture was part of the NYU ML School 2022.
 
 [Recording](https://www.youtube.com/watch?v=MtOrp-JDI2Y&ab_channel=NYUAISchool) | [Slides](https://drive.google.com/file/d/11rysxxIm1lc4k2b-xcZrnKrh9y7KvJuG/view)
+
+### Introduction to Graph Neural Networks 
 
 
