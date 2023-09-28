@@ -51,6 +51,6 @@ A two hour introduction to machine learning. This lecture provides historical an
 
 This lecture was part of the NYU ML School 2022.
 
-[Recording]([url](https://www.youtube.com/watch?v=MtOrp-JDI2Y&ab_channel=NYUAISchool)https://www.youtube.com/watch?v=MtOrp-JDI2Y&ab_channel=NYUAISchool) | [Slides]([url](https://drive.google.com/file/d/11rysxxIm1lc4k2b-xcZrnKrh9y7KvJuG/view)https://drive.google.com/file/d/11rysxxIm1lc4k2b-xcZrnKrh9y7KvJuG/view)
+[Recording](https://www.youtube.com/watch?v=MtOrp-JDI2Y&ab_channel=NYUAISchool) | [Slides](https://drive.google.com/file/d/11rysxxIm1lc4k2b-xcZrnKrh9y7KvJuG/view)
 
 
